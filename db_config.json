@@ -2,15 +2,17 @@
   "DATABASE": {
     "USERNAME": "",
     "PASSWORD": "",
-    "HOST": "",
-    "PORT": "",
-    "dsn": "",
-    "SERVICE_NAME": "",
-    "TABLE_NAME_CV_LANG": ""
+    "HOST": "217.142.139.113",
+    "PORT": "1521",
+    "dsn": "217.142.139.113:1521",
+    "SERVICE_NAME": "PDB1.sub07130445110.genaihandsonvcn.oraclevcn.com",
+    "TABLE_NAME_CV_LANG": "DOC_CHUNKS_TEST12"
   },
   "OCI": {
-    "compartment_id": "",
-    "CONFIG_PROFILE": "=",
-    "endpoint": ""
+    "compartment_id": "ocid1.compartment.oc1..aaaaaaaacoh3hxxu7cerb7zwicmkofupyi45vknkxz3urq6m3smdxge5ld5q",
+    "CONFIG_PROFILE": "DEFAULT",
+    "endpoint": "https://inference.generativeai.ap-osaka-1.oci.oraclecloud.com"
   }
 } 
+
+
