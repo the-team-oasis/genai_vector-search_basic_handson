@@ -6,7 +6,7 @@
     "PORT": "1521",
     "dsn": "217.142.139.113:1521",
     "SERVICE_NAME": "PDB1.sub07130445110.genaihandsonvcn.oraclevcn.com",
-    "TABLE_NAME_CV_LANG": "DOC_CHUNKS_TEST12"
+    "TABLE_NAME_CV_LANG": "DOC_CHUNKS_{initials}"
   },
   "OCI": {
     "compartment_id": "ocid1.compartment.oc1..aaaaaaaacoh3hxxu7cerb7zwicmkofupyi45vknkxz3urq6m3smdxge5ld5q",
