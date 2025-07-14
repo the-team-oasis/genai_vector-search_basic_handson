@@ -1,0 +1,16 @@
+{
+  "DATABASE": {
+    "USERNAME": "",
+    "PASSWORD": "",
+    "HOST": "",
+    "PORT": "",
+    "dsn": "",
+    "SERVICE_NAME": "",
+    "TABLE_NAME_CV_LANG": ""
+  },
+  "OCI": {
+    "compartment_id": "",
+    "CONFIG_PROFILE": "=",
+    "endpoint": ""
+  }
+} 

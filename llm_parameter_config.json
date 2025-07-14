@@ -1,0 +1,18 @@
+{
+  "splitter_params": {
+    "BY": "words",
+    "MAX": 200,
+    "OVERLAP": 10,
+    "SPLIT": "sentence",
+    "LANGUAGE": "KOREAN",
+    "NORMALIZE": "all"
+  },
+  "llm_params": {
+    "temperature": 0.7,
+    "top_p": 0.75,
+    "max_tokens": 3000
+  },
+  "retriever_params": {
+    "k": 3
+  }
+} 

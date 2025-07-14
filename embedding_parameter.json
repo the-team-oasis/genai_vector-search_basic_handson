@@ -1,0 +1,8 @@
+{
+  "BY": "words",
+  "MAX": 200,
+  "OVERLAP": 10,
+  "SPLIT": "sentence",
+  "LANGUAGE": "KOREAN",
+  "NORMALIZE": "all"
+} 
